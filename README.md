@@ -13,8 +13,8 @@
 - 🏠 **[Homelab — Proxmox, Docker & IA locale](https://github.com/romaingbt/Homelab_IA_agent)**  
   Hyperviseur Proxmox VE, VM Debian, conteneurs Docker : n8n (automatisation), Ollama et deux modèles d'IA auto-hébergés.
 
-- 🖧 **[Projet TSSR — Infrastructure PME](https://github.com/romaingbt/projet-tssr)**  
-  Conception et sécurisation d'une infrastructure : Active Directory, GPO, réseau, pare-feu, stratégie de sauvegarde.
+- 🖧 **[Plateforme PDF Souveraine](https://github.com/romaingbt/pdf-souverain)**  
+  Plateforme d'édition PDF 100 % souveraine et auto-hébergée — BentoPDF derrière Traefik (TLS) et Authelia (SSO Active Directory + MFA).
 
 - 🔐 **[Projet AIS — Infrastructure sécurisée](https://github.com/romaingbt/projet-ais)**  
   Administration d'une infrastructure sécurisée : durcissement, VPN, supervision, gestion des accès.
