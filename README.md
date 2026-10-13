@@ -10,7 +10,7 @@
 
 ## 🏆 Mes projets phares
 
-- 🏠 **[Homelab — Proxmox, Docker & IA locale][(https://github.com/romaingbt/homelab)](https://github.com/romaingbt/Homelab_IA_agent)**  
+- 🏠 **[Homelab — Proxmox, Docker & IA locale](https://github.com/romaingbt/Homelab_IA_agent)**  
   Hyperviseur Proxmox VE, VM Debian, conteneurs Docker : n8n (automatisation), Ollama et deux modèles d'IA auto-hébergés.
 
 - 🖧 **[Projet TSSR — Infrastructure PME](https://github.com/romaingbt/projet-tssr)**  
