@@ -1,16 +1,28 @@
-## Hi there 👋
+# Salut, moi c'est Romain 👋
 
-<!--
-**romaingbt/romaingbt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Administrateur systèmes & réseaux — junior en IT, avec 10 ans de maturité professionnelle sur le terrain.
 
-Here are some ideas to get you started:
+🎓 Titulaire des titres **TSSR** (RNCP 5) et **AIS** — Administrateur d'Infrastructures Sécurisées (RNCP 6), je recherche un poste d'administrateur systèmes & réseaux autour d'Arras ou en 100 % télétravail.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Passionné par l'infrastructure et l'IA locale : je construis et documente tout ce qui tourne sur mon homelab.
+
+---
+
+## 🏆 Mes projets phares
+
+- 🏠 **[Homelab — Proxmox, Docker & IA locale](https://github.com/romaingbt/homelab)**  
+  Hyperviseur Proxmox VE, VM Debian, conteneurs Docker : n8n (automatisation), Ollama et deux modèles d'IA auto-hébergés.
+
+- 🖧 **[Projet TSSR — Infrastructure PME](https://github.com/romaingbt/projet-tssr)**  
+  Conception et sécurisation d'une infrastructure : Active Directory, GPO, réseau, pare-feu, stratégie de sauvegarde.
+
+- 🔐 **[Projet AIS — Infrastructure sécurisée](https://github.com/romaingbt/projet-ais)**  
+  Administration d'une infrastructure sécurisée : durcissement, VPN, supervision, gestion des accès.
+
+## 🧰 Stack technique
+
+`Windows Server` · `Linux (Debian)` · `Active Directory / GPO` · `Proxmox` · `VMware ESXi` · `Docker` · `pfSense` · `Zabbix` · `GLPI` · `PowerShell` · `Bash` · `Ansible`
+
+## 📇 Me contacter
+
+- 💼 **LinkedIn** : https://www.linkedin.com/in/romain-gambart/
