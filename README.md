@@ -16,8 +16,8 @@
 - 🖧 **[Plateforme PDF Souveraine](https://github.com/romaingbt/pdf-souverain)**  
   Plateforme d'édition PDF 100 % souveraine et auto-hébergée — BentoPDF derrière Traefik (TLS) et Authelia (SSO Active Directory + MFA).
 
-- 🔐 **[Projet AIS — Infrastructure sécurisée](https://github.com/romaingbt/projet-ais)**  
-  Administration d'une infrastructure sécurisée : durcissement, VPN, supervision, gestion des accès.
+- 🔐 **[Audit & Hardening Active Directory avec PingCastle](https://github.com/romaingbt/ais_active_directory_hardening_pingcastle)**  
+Audit de sécurité Active Directory avec PingCastle et remédiation méthodique (LAPS, Kerberos, GPO Security).
 
 ## 🧰 Stack technique
 
